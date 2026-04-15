@@ -1,4 +1,4 @@
-# SaaS Churn Analysis Dashboard
+# SaaS Churn Analysis Dashboard 
 
 A comprehensive Power BI dashboard analyzing subscription-based SaaS customer churn, revenue trends, and retention drivers using 12 months of transaction data.
 
